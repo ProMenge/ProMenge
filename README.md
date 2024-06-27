@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=9D47F7&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Fred+Menge!" alt="Typing SVG">
   </a>
 </div>
+
 ##
 
 <div>
