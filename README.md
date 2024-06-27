@@ -3,12 +3,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=9D47F7&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Fred+Menge!" alt="Typing SVG">
   </a>
 </div>
+##
 
 <div>
   <p align="center">
     Atualmente sou estudante e estou cursando Ciências da Computação e possuo diploma técnico em tecnologia da informação. Tenho grande interesse na maioria das áreas de programação, tanto Front-End quanto Back-End e minha principal linguagem (por enquanto) é o Javascript. Sigo uma rotina de estudos consistente para ampliar meu conhecimento na área de tecnologia e me aprimorar cada vez mais para estar a par dos desafios que me esperam no futuro!
   </p>
 </div>
+
+##
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px;">
@@ -38,6 +41,8 @@
 
   </div>
 
+  ##
+
   <div style="flex: 1; min-width: 300px;">
     <h3 align="left">GitStats</h3>
     <div align="center">
@@ -45,7 +50,7 @@
         <img height="180em" src="https://github-readme-stats-promenges-projects.vercel.app/api?username=ProMenge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-promenges-projects.vercel.app/api/top-langs/?username=ProMenge&layout=compact&langs_count=16&theme=dark"/>
       </a>
-    </div>
+    </div> 
     <div align="center">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProMenge/ProMenge/output/github-contribution-grid-snake-dark.svg">
