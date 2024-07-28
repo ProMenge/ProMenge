@@ -48,8 +48,8 @@
     <h3 align="left">GitStats</h3>
     <div align="center">
       <a href="https://github.com/ProMenge">
-        <img height="180em" src="https://github-readme-stats-promenges-projects.vercel.app/api?username=ProMenge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-promenges-projects.vercel.app/api/top-langs/?username=ProMenge&layout=compact&langs_count=16&theme=dark"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMenge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProMenge&layout=compact&langs_count=16&theme=dark"/>
       </a>
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ProMenge&theme=whatsapp-dark&border_radius=14.5&mode=weekly&card_width=595&card_height=240" alt="GitHub Streak" /></a>
     </div> 
