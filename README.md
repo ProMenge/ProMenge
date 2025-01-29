@@ -1,14 +1,12 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=500&color=9D47F7&random=false&width=435&lines=Ol%C3%A1!+Eu+sou+o+Fred+Menge!" alt="Typing SVG">
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=4D0B8A&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Fred+Menge!" alt="Typing SVG" /></a>
 </div>
 
 ##
 
 <div>
-  <p align="center">
-    Atualmente sou estudante e estou cursando Ciências da Computação e possuo diploma técnico em tecnologia da informação. Tenho grande interesse na maioria das áreas de programação, tanto Front-End quanto Back-End e minha principal linguagem (por enquanto) é o Javascript. Sigo uma rotina de estudos consistente para ampliar meu conhecimento na área de tecnologia e me aprimorar cada vez mais para estar a par dos desafios que me esperam no futuro!
+  <p align="left">
+    Computer Science student with a passion for building interactive web applications with engaging user experiences. Proficient in Typescript and React, with experience in both front-end and back-end development, leveraging various front-end focused Node packages to enhance my projects.  I'm also comfortable working with CSS preprocessors like Sass and SCSS.  Currently expanding my skillset through webinars and online courses, while exploring the world of machine learning. Let's connect and build something awesome!
   </p>
 </div>
 
@@ -33,7 +31,7 @@
       <img align="center" alt="Menge-Grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original-wordmark.svg">
     </div>
     <br/>
-<h3 align="left">Conecte-se Comigo! </h3>
+<h3 align="left">Let's connect! </h3>
     <div align="left">
       <a href="https://instagram.com/fred_menge" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
       <a href="mailto:mengeprofissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -51,7 +49,6 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProMenge&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ProMenge&layout=compact&langs_count=16&theme=dark"/>
       </a>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ProMenge&theme=whatsapp-dark&border_radius=14.5&mode=weekly&card_width=595&card_height=240" alt="GitHub Streak" /></a>
     </div> 
     <div align="center">
       <picture>
