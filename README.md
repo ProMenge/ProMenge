@@ -74,9 +74,18 @@ In the overview below you will find my most recent project experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
 
+**X/Twitter Clone** \
+[**X/Twitter Clone - FullStack Project**]
+Languages ​​& Technologies:  `HTML`, `Typescript`, `Java`, `CSS`, `Python`, `Django`, `DjangoRest`, `RestAPI`\
+Featured links: [Repository](https://github.com/ProMenge/Twitter_Clone), [Website](http://twitter-clone-ashen-six-22.vercel.app/), [API](https://twitter-clone-tuc5.onrender.com)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
 **SafePix/Chat Api** \
 [**SafePix/Chat Api - A Work for Bradesco**]
-Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `Java`, `CSS`\
+Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `Java`, `CSS`, `SpringBoot`, `RestFullAPI`\
 Featured links: [Repository](https://github.com/ProMenge/A3_Bradesco)
 <br/>
 <br/>
